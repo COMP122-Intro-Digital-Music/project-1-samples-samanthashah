@@ -1,1 +1,45 @@
-[ ]
+[
+  {
+    "name": "Simple Sequence ",
+    "loop": "3m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "E4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:0.0",
+        "pitch": "B3",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:2:0.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "2:0:0.0",
+        "pitch": "G4",
+        "dur": "2n",
+        "vel": "1"
+      },
+      {
+        "time": "2:2:0.0",
+        "pitch": "E4",
+        "dur": "2n",
+        "vel": "1"
+      }
+    ]
+  }
+]
